@@ -6,6 +6,8 @@ coverage/
 test-results/
 playwright-report/
 *.log
+*.tsbuildinfo
+verify-shots/
 .env
 .env.*
 !.env.example
